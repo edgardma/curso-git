@@ -11,3 +11,4 @@ Este es un mensaje editado completamente desde GitHub
 ### Hola mundo
 
 ## Estos cambios son nuevos desde GitHub nuevamente
+## Estos cambios son nuevos desde el local
